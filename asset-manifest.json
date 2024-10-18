@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/DreamPixel.io/static/css/main.7906f7e3.css",
+    "main.js": "/github.io/DreamPixel.io/static/js/main.368167f1.js",
+    "index.html": "/github.io/DreamPixel.io/index.html",
+    "main.7906f7e3.css.map": "/github.io/DreamPixel.io/static/css/main.7906f7e3.css.map",
+    "main.368167f1.js.map": "/github.io/DreamPixel.io/static/js/main.368167f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7906f7e3.css",
+    "static/js/main.368167f1.js"
+  ]
+}
